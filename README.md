@@ -1,3 +1,6 @@
+#GPT3_jsm
+https://www.youtube.com/watch?v=LMagNcngvcU&list=PLAH6mI6nEwXkClkkQokTg50jK5cWJcmp-&index=35&t=49s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
