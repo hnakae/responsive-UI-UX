@@ -1,5 +1,4 @@
-#GPT3_jsm
-https://www.youtube.com/watch?v=LMagNcngvcU&list=PLAH6mI6nEwXkClkkQokTg50jK5cWJcmp-&index=35&t=49s
+https://gpt-3-early-access.netlify.app/
 
 # Getting Started with Create React App
 
